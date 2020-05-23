@@ -33,3 +33,4 @@ render() {
 }
 
 export default Pin;
+
